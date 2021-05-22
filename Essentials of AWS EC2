@@ -1,0 +1,4 @@
+Scalability: We can scale up or scale down the storage depending upon the traffic server. If there is a low traffic in our server then we can decrease it's storage and vice versa.
+Flexibility: In terms of flexibility, AWS is highly flexible. Suppose, if we want to host our website or an application for only 1 hour then we have to pay for only one hour.
+Security   : AWS takes care of our stored data & also eliminates suspicious activities.
+Cost Effective: AWS has something called 'Free Tier Account' where we can use all the features of AWS free for whole one year. It also has a feature 'Pay as you go model' i.e. we have to pay only for those services which we have taken at lease.
